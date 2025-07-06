@@ -23,11 +23,4 @@ A fully responsive **YouTube homepage clone** built using **HTML, CSS, and JavaS
 
 ---
 
-## 📂 Project Structure
-
-youtube-clone/
-├── index.html
-├── style.css
-├── script.js
-├── images/ # thumbnails, icons
         
